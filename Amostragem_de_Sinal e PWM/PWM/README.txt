@@ -1,11 +1,11 @@
 Autor: Vitor de Almeida Silva
 
-programa para PWM com arduino Uno. O programa permite o contre de velocidade de um motor DC (que é representados por LEDs na simulação), em termos de direção e velocidade. para tanto faz uso dos pulsos do PWM.
+programa para controle de motor DC com PWM com arduino Uno. O programa permite o contre de velocidade de um motor DC, em termos de direÃ§Ã£o e velocidade. para tanto faz uso dos pulsos do PWM.
 
-O programa é capaz de ler informações vindas do usuário. Tendo as seguintes possibilidades:
+O programa Ã© capaz de ler informaÃ§Ãµes vindas do usuÃ¡rio. Tendo as seguintes possibilidades:
 
-- Aumento ou redução do pulso PWM;
-- Mudança de direção para horário ou antihorário;
-- Reinício das ações.
+- Aumento ou reduÃ§Ã£o do pulso PWM;
+- MudanÃ§a de direÃ§Ã£o para horÃ¡rio ou antihorÃ¡rio;
+- ReinÃ­cio das aÃ§Ãµes.
 
-O circuito simulado faz uso de uma ponte H pra controlde de velociadade e direção do motor DC; 
+O circuito simulado faz uso de uma ponte H pra controlde de velociadade e direÃ§Ã£o do motor DC; 
