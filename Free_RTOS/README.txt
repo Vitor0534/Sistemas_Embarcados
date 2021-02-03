@@ -1,0 +1,1 @@
+Programa que faz uso da biblioteca Free RTO do arduino, para criação de várias Tasks que simulam threads executando em paralelo. 
